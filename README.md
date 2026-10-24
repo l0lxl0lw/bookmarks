@@ -89,6 +89,7 @@ Tools and projects I use, organized by category.
 
 - [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md) — Give coding agents design guides inspired by popular brands.
 - [draw.io](https://github.com/jgraph/drawio) — Create and edit diagrams in your browser.
+- [Hairline](https://github.com/lucasmarkes/hairline) — Add interactive isometric line animations to websites.
 - [Humanizer](https://github.com/blader/humanizer) — Rewrite text to remove common signs of AI writing.
 - [Impeccable](https://github.com/pbakaus/impeccable) — Guide coding agents to create better user interfaces.
 - [OpenDesign](https://github.com/nexu-io/open-design) — Create and refine prototypes with AI agents and your team.
