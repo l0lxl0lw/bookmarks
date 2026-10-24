@@ -25,6 +25,7 @@ Tools and projects I use, organized by category.
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) — Define what to build before asking AI to code.
 - [Ponytail](https://github.com/dietrichgebert/ponytail) — Guide AI agents to solve problems with less code.
 - [Ralph Claude Code](https://github.com/frankbria/ralph-claude-code) — Run Claude Code in a loop until tasks finish.
+- [Security Audit Skill](https://github.com/cloudflare/security-audit-skill) — Guide coding agents to find and verify security vulnerabilities.
 
 ### Agent Memory & Context
 
@@ -90,6 +91,7 @@ Tools and projects I use, organized by category.
 - [draw.io](https://github.com/jgraph/drawio) — Create and edit diagrams in your browser.
 - [Humanizer](https://github.com/blader/humanizer) — Rewrite text to remove common signs of AI writing.
 - [Impeccable](https://github.com/pbakaus/impeccable) — Guide coding agents to create better user interfaces.
+- [OpenDesign](https://github.com/nexu-io/open-design) — Create and refine prototypes with AI agents and your team.
 
 ## Audio, Images & Video
 
