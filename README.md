@@ -30,6 +30,7 @@ Tools and projects I use, organized by category.
 ### Agent Memory & Context
 
 - [Agentic](https://github.com/Cluster444/agentic) — Organize project context for OpenCode workflows.
+- [billion-context](https://github.com/ranxianglei/billion-context) — Compress conversation history to keep coding agents running longer.
 - [Claude Mem](https://github.com/thedotmack/claude-mem) — Carry useful context from past sessions into future ones.
 - [Context7](https://github.com/upstash/context7) — Give coding agents up-to-date library documentation.
 - [QMD Skill](https://github.com/levineam/qmd-skill) — Teach agents to search Markdown files with QMD.
