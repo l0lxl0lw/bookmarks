@@ -25,6 +25,7 @@ Tools and projects I use, organized by category.
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) — Define what to build before asking AI to code.
 - [Ponytail](https://github.com/dietrichgebert/ponytail) — Guide AI agents to solve problems with less code.
 - [Ralph Claude Code](https://github.com/frankbria/ralph-claude-code) — Run Claude Code in a loop until tasks finish.
+- [Replica Skill](https://github.com/Jakeschincariol/replica-skill) — Rebuild apps with Claude skills for research, development, and testing.
 - [Security Audit Skill](https://github.com/cloudflare/security-audit-skill) — Guide coding agents to find and verify security vulnerabilities.
 
 ### Agent Memory & Context
