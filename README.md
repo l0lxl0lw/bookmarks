@@ -108,9 +108,12 @@ Tools and projects I use, organized by category.
 
 ## Business & Marketing
 
+- [Google Maps Scraper Kit](https://github.com/Mahanaicoach/google-maps-scraper-kit) — Export Google Maps business leads and contact details to CSV.
+- [LinkedIn Skills](https://github.com/sergebulaev/linkedin-skills) — Draft LinkedIn posts, comments, and content plans with AI agents.
 - [Marketing Skills](https://github.com/coreyhaines31/marketingskills) — Give agents skills for copywriting, SEO, and growth.
 - [Minimalist Entrepreneur Skills](https://github.com/slavingia/skills) — Use Claude Code skills to validate, launch, and grow businesses.
 - [MiroFish](https://github.com/666ghj/MiroFish) — Explore possible outcomes through simulations with AI agents.
+- [OpenSEO](https://github.com/every-app/open-seo) — Research keywords, track rankings, and audit websites with AI agents.
 - [Postiz](https://github.com/gitroomhq/postiz-app) — Schedule and publish social media posts.
 - [Roast Room](https://github.com/nateherkai/roast-room) — Have AI advisors debate your business decisions in Claude Code.
 
