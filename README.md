@@ -109,6 +109,7 @@ Tools and projects I use, organized by category.
 ## Business & Marketing
 
 - [Marketing Skills](https://github.com/coreyhaines31/marketingskills) — Give agents skills for copywriting, SEO, and growth.
+- [Minimalist Entrepreneur Skills](https://github.com/slavingia/skills) — Use Claude Code skills to validate, launch, and grow businesses.
 - [MiroFish](https://github.com/666ghj/MiroFish) — Explore possible outcomes through simulations with AI agents.
 - [Postiz](https://github.com/gitroomhq/postiz-app) — Schedule and publish social media posts.
 - [Roast Room](https://github.com/nateherkai/roast-room) — Have AI advisors debate your business decisions in Claude Code.
