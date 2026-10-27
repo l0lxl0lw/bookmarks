@@ -95,6 +95,7 @@ Tools and projects I use, organized by category.
 - [Humanizer](https://github.com/blader/humanizer) — Rewrite text to remove common signs of AI writing.
 - [Impeccable](https://github.com/pbakaus/impeccable) — Guide coding agents to create better user interfaces.
 - [OpenDesign](https://github.com/nexu-io/open-design) — Create and refine prototypes with AI agents and your team.
+- [Taste Skill](https://github.com/Leonxlnx/taste-skill) — Guide coding agents to design websites and app screens.
 
 ## Audio, Images & Video
 
