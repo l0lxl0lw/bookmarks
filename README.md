@@ -99,6 +99,7 @@ Tools and projects I use, organized by category.
 
 ## Audio, Images & Video
 
+- [Genjustsu](https://github.com/sirioberati/Genjustsu-Open-Source-Workflow) — Replace video subjects with AI while preserving original audio.
 - [Hyperframes](https://github.com/heygen-com/hyperframes) — Turn HTML into videos with tools built for agents.
 - [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) — Generate images and videos in a self-hosted studio.
 - [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) — Generate speech, design voices, and clone voices.
