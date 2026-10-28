@@ -106,6 +106,7 @@ Tools and projects I use, organized by category.
 - [Remotion Skills](https://github.com/remotion-dev/skills) — Teach coding agents how to build Remotion videos.
 - [Voicebox](https://github.com/jamiepine/voicebox) — Clone voices, dictate text, and create AI speech.
 - [Watermarks Remover](https://github.com/guillaumemeyer/watermarks-remover) — Remove AI watermarks from content you own.
+- [YouTube Agent Skill](https://github.com/Jakeschincariol/youtube-agent-skill) — Plan YouTube videos, write scripts, and analyze audience retention.
 
 ## Business & Marketing
 
