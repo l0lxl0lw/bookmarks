@@ -87,6 +87,10 @@ Tools and projects I use, organized by category.
 - [Google Workspace CLI](https://github.com/googleworkspace/cli) — Use Google Workspace apps from the command line.
 - [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) — Extract website data using AI and Python.
 
+## Data & Forecasting
+
+- [TimesFM](https://github.com/google-research/timesfm) — Forecast time-series data with pretrained models from Google Research.
+
 ## Design & Writing
 
 - [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md) — Give coding agents design guides inspired by popular brands.
