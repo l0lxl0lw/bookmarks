@@ -116,6 +116,7 @@ Tools and projects I use, organized by category.
 ## Business & Marketing
 
 - [Google Maps Scraper Kit](https://github.com/Mahanaicoach/google-maps-scraper-kit) — Export Google Maps business leads and contact details to CSV.
+- [Harvey](https://github.com/ethanplusai/harvey) — Find sales prospects, draft outreach emails, and handle replies.
 - [LinkedIn Skills](https://github.com/sergebulaev/linkedin-skills) — Draft LinkedIn posts, comments, and content plans with AI agents.
 - [Marketing Skills](https://github.com/coreyhaines31/marketingskills) — Give agents skills for copywriting, SEO, and growth.
 - [Minimalist Entrepreneur Skills](https://github.com/slavingia/skills) — Use Claude Code skills to validate, launch, and grow businesses.
