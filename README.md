@@ -93,6 +93,7 @@ Tools and projects I use, organized by category.
 
 ## Design & Writing
 
+- [AI Design Skills](https://github.com/elayadesign/ai-design-skills) — Guide coding agents to build landing pages and Figma designs.
 - [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md) — Give coding agents design guides inspired by popular brands.
 - [draw.io](https://github.com/jgraph/drawio) — Create and edit diagrams in your browser.
 - [Hairline](https://github.com/lucasmarkes/hairline) — Add interactive isometric line animations to websites.
