@@ -128,6 +128,10 @@ Tools and projects I use, organized by category.
 - [Postiz](https://github.com/gitroomhq/postiz-app) — Schedule and publish social media posts.
 - [Roast Room](https://github.com/nateherkai/roast-room) — Have AI advisors debate your business decisions in Claude Code.
 
+## Security & Testing
+
+- [PentAGI](https://github.com/vxcontrol/pentagi) — Automate penetration testing tasks with autonomous AI agents.
+
 ## Local AI Models
 
 - [BitNet](https://github.com/microsoft/BitNet) — Run 1-bit language models with an optimized inference framework.
