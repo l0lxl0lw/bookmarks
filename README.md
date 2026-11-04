@@ -105,6 +105,7 @@ Tools and projects I use, organized by category.
 
 ## Audio, Images & Video
 
+- [Blender Skills](https://github.com/arjun988/blender-skills) — Teach coding agents to create 3D art in Blender.
 - [earshot](https://github.com/Leonxlnx/earshot) — Let coding agents analyze, review, and create sound locally.
 - [Genjustsu](https://github.com/sirioberati/Genjustsu-Open-Source-Workflow) — Replace video subjects with AI while preserving original audio.
 - [Hyperframes](https://github.com/heygen-com/hyperframes) — Turn HTML into videos with tools built for agents.
