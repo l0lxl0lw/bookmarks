@@ -19,6 +19,7 @@ Tools and projects I use, organized by category.
 - [Caveman](https://github.com/JuliusBrussee/caveman) — Reduce agent response length with stripped-down language.
 - [Claudeception](https://github.com/blader/Claudeception) — Turn lessons from coding sessions into reusable skills.
 - [ECC](https://github.com/affaan-m/ECC) — Improve coding agents with skills, memory, and development workflows.
+- [Elephant-Goldfish Model](https://github.com/google/elephant-goldfish-model) — Design and review software specs with AI agents.
 - [Get Shit Done](https://github.com/gsd-build/get-shit-done) — Plan and build software through small, clearly defined tasks.
 - [gstack](https://github.com/garrytan/gstack) — Give Claude Code tools for planning, design, development, and review.
 - [Matt Pocock's Skills](https://github.com/mattpocock/skills) — Ready-made instructions for coding agents.
