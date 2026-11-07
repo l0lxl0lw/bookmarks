@@ -122,6 +122,7 @@ Tools and projects I use, organized by category.
 
 ## Business & Marketing
 
+- [Claude SEO](https://github.com/AgriciDaniel/claude-seo) — Run full SEO audits inside Claude Code.
 - [Google Maps Scraper Kit](https://github.com/Mahanaicoach/google-maps-scraper-kit) — Export Google Maps business leads and contact details to CSV.
 - [Harvey](https://github.com/ethanplusai/harvey) — Find sales prospects, draft outreach emails, and handle replies.
 - [LinkedIn Skills](https://github.com/sergebulaev/linkedin-skills) — Draft LinkedIn posts, comments, and content plans with AI agents.
