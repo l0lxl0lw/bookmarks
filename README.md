@@ -136,6 +136,7 @@ Tools and projects I use, organized by category.
 ## Security & Testing
 
 - [PentAGI](https://github.com/vxcontrol/pentagi) — Automate penetration testing tasks with autonomous AI agents.
+- [Strix](https://github.com/usestrix/strix) — Find and fix app vulnerabilities with AI pentesting.
 
 ## Local AI Models
 
