@@ -7,6 +7,7 @@ Tools and projects I use, organized by category.
 ### Coding Agents & Workspaces
 
 - [Goose](https://github.com/aaif-goose/goose) — Use AI to install, edit, run, and test code.
+- [Herdr](https://herdr.dev/) — Run coding agents that keep working after closing the app.
 - [OpenCode](https://github.com/anomalyco/opencode) — Write code with an open-source AI agent.
 - [Orca](https://github.com/stablyai/orca) — Run multiple coding agents in one workspace.
 
