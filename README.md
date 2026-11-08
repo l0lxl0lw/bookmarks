@@ -44,6 +44,7 @@ Tools and projects I use, organized by category.
 - [Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills) — Find skills and tools for Claude workflows.
 - [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills) — Browse categorized skills for OpenClaw agents.
 - [Awesome Paperclip](https://github.com/gsxdsm/awesome-paperclip) — Find plugins to extend Paperclip.
+- [Claude Code Mods](https://github.com/nateherkai/claude-code-mods) — Add cache, recording, goal, and collision mods to Claude Code.
 - [Claude Plugins Official](https://github.com/anthropics/claude-plugins-official) — Browse Anthropic's official directory of Claude Code plugins.
 - [Knowledge Work Plugins](https://github.com/anthropics/knowledge-work-plugins) — Add workplace tools and workflows to Claude Cowork.
 
