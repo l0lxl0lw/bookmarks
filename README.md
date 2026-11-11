@@ -29,6 +29,7 @@ Tools and projects I use, organized by category.
 - [Ralph Claude Code](https://github.com/frankbria/ralph-claude-code) — Run Claude Code in a loop until tasks finish.
 - [Replica Skill](https://github.com/Jakeschincariol/replica-skill) — Rebuild apps with Claude skills for research, development, and testing.
 - [Security Audit Skill](https://github.com/cloudflare/security-audit-skill) — Guide coding agents to find and verify security vulnerabilities.
+- [Skills CLI](https://github.com/vercel-labs/skills) — Install and manage agent skills across coding agents.
 - [SkillSpector](https://github.com/nvidia/skillspector) — Scan agent skills for security risks before installing them.
 
 ### Agent Memory & Context
@@ -153,3 +154,4 @@ Tools and projects I use, organized by category.
 - [Public APIs](https://github.com/public-apis/public-apis) — Find free APIs for your projects.
 - [System Prompts Leaks](https://github.com/asgeirtj/system_prompts_leaks) — Browse collected system prompts from AI tools.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) — Browse developer tools, cheatsheets, manuals, and useful links.
+
