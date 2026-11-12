@@ -87,6 +87,7 @@ Tools and projects I use, organized by category.
 
 ### App & Web Automation
 
+- [Agent Browser](https://github.com/vercel-labs/agent-browser) — Let AI agents open pages and click elements from the shell.
 - [Agent Reach](https://github.com/Panniantong/Agent-Reach) — Let AI agents search and read websites and social platforms.
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything) — Create command-line tools so agents can operate software.
 - [Google Workspace CLI](https://github.com/googleworkspace/cli) — Use Google Workspace apps from the command line.
