@@ -14,6 +14,7 @@ Tools and projects I use, organized by category.
 ### Agent Skills & Workflows
 
 - [Agency Agents](https://github.com/msitarzewski/agency-agents) — Choose specialist agents for development, design, and marketing tasks.
+- [Agent Skills](https://github.com/addyosmani/agent-skills) — Guide AI agents through spec, build, test, and ship.
 - [Andrej Karpathy Skills](https://github.com/multica-ai/andrej-karpathy-skills) — Guide Claude Code to avoid common coding mistakes.
 - [Anthropic Skills](https://github.com/anthropics/skills) — Browse Anthropic's reusable instructions for AI agents.
 - [BMAD Method](https://github.com/bmad-code-org/BMAD-METHOD) — Plan and build software with structured AI workflows.
@@ -42,6 +43,7 @@ Tools and projects I use, organized by category.
 
 ### Plugins & Skill Collections
 
+- [ADHD](https://github.com/ayghri/i-have-adhd) — Keep agent answers short, direct, and actionable.
 - [Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills) — Find skills and tools for Claude workflows.
 - [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills) — Browse categorized skills for OpenClaw agents.
 - [Awesome Paperclip](https://github.com/gsxdsm/awesome-paperclip) — Find plugins to extend Paperclip.
@@ -53,10 +55,12 @@ Tools and projects I use, organized by category.
 
 - [Graphify](https://github.com/graphify-labs/graphify) — Map how your code and docs connect.
 - [REA](https://github.com/morluto/rea) — Reverse engineer apps and binaries with AI agents.
+- [Understand Anything](https://github.com/Egonex-AI/Understand-Anything) — Map any codebase as a searchable knowledge graph.
 
 ### Agent Usage Tracking
 
 - [Claude Usage Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) — Track Claude usage limits from your Mac's menu bar.
+- [Headroom](https://github.com/headroomlabs-ai/headroom) — Compress agent context to cut token use.
 
 ### AI APIs
 
@@ -96,19 +100,24 @@ Tools and projects I use, organized by category.
 
 ## Data & Forecasting
 
+- [Last 30 Days](https://github.com/mvanhorn/last30days-skill) — Research any topic across Reddit, X, and YouTube.
 - [TimesFM](https://github.com/google-research/timesfm) — Forecast time-series data with pretrained models from Google Research.
 
 ## Design & Writing
 
 - [AI Design Skills](https://github.com/elayadesign/ai-design-skills) — Guide coding agents to build landing pages and Figma designs.
+- [Archify](https://github.com/tt-a1i/archify) — Turn ideas and code into interactive diagrams.
 - [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md) — Give coding agents design guides inspired by popular brands.
+- [Diagram Design](https://github.com/cathrynlavery/diagram-design) — Draw clean editorial diagrams as HTML and SVG.
 - [draw.io](https://github.com/jgraph/drawio) — Create and edit diagrams in your browser.
 - [Hairline](https://github.com/lucasmarkes/hairline) — Add interactive isometric line animations to websites.
 - [Hallmark](https://github.com/Nutlope/hallmark) — Guide coding agents to design pages that avoid AI-generated looks.
 - [Humanizer](https://github.com/blader/humanizer) — Rewrite text to remove common signs of AI writing.
 - [Impeccable](https://github.com/pbakaus/impeccable) — Guide coding agents to create better user interfaces.
 - [OpenDesign](https://github.com/nexu-io/open-design) — Create and refine prototypes with AI agents and your team.
+- [PPT Master](https://github.com/hugohe3/ppt-master) — Turn documents into native editable PowerPoint decks.
 - [Taste Skill](https://github.com/Leonxlnx/taste-skill) — Guide coding agents to design websites and app screens.
+- [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — Give agents design rules for polished interfaces.
 
 ## Audio, Images & Video
 
@@ -118,6 +127,7 @@ Tools and projects I use, organized by category.
 - [Hyperframes](https://github.com/heygen-com/hyperframes) — Turn HTML into videos with tools built for agents.
 - [Lemo-Opuscar](https://github.com/lemomo-ai/lemo-opuscar) — Create animated films in reusable visual styles with coding agents.
 - [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) — Generate images and videos in a self-hosted studio.
+- [OpenMontage](https://github.com/OpenMontageInc/OpenMontage) — Turn your coding agent into a video studio.
 - [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) — Generate speech, design voices, and clone voices.
 - [Remotion](https://github.com/remotion-dev/remotion) — Create videos programmatically with React.
 - [Remotion Skills](https://github.com/remotion-dev/skills) — Teach coding agents how to build Remotion videos.
@@ -128,6 +138,7 @@ Tools and projects I use, organized by category.
 
 ## Business & Marketing
 
+- [Career-Ops](https://github.com/career-ops-hq/career-ops) — Search jobs, tailor your resume, and prep interviews.
 - [Claude SEO](https://github.com/AgriciDaniel/claude-seo) — Run full SEO audits inside Claude Code.
 - [Google Maps Scraper Kit](https://github.com/Mahanaicoach/google-maps-scraper-kit) — Export Google Maps business leads and contact details to CSV.
 - [Harvey](https://github.com/ethanplusai/harvey) — Find sales prospects, draft outreach emails, and handle replies.
