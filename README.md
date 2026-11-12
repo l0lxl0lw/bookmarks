@@ -60,6 +60,7 @@ Tools and projects I use, organized by category.
 
 ### AI APIs
 
+- [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi) — Use dozens of free AI models through one API endpoint.
 - [TypeSafe](https://docs.typesafe.ai/introduction) — Get AI decisions as structured answers your code can use.
 
 ## Agent Coordination
@@ -121,6 +122,7 @@ Tools and projects I use, organized by category.
 - [Remotion](https://github.com/remotion-dev/remotion) — Create videos programmatically with React.
 - [Remotion Skills](https://github.com/remotion-dev/skills) — Teach coding agents how to build Remotion videos.
 - [Voicebox](https://github.com/jamiepine/voicebox) — Clone voices, dictate text, and create AI speech.
+- [VoiceStudio](https://github.com/debpalash/VoiceStudio) — Clone voices and dub videos on your own computer.
 - [Watermarks Remover](https://github.com/guillaumemeyer/watermarks-remover) — Remove AI watermarks from content you own.
 - [YouTube Agent Skill](https://github.com/Jakeschincariol/youtube-agent-skill) — Plan YouTube videos, write scripts, and analyze audience retention.
 
@@ -139,12 +141,14 @@ Tools and projects I use, organized by category.
 
 ## Security & Testing
 
+- [Ghidra](https://github.com/NationalSecurityAgency/ghidra) — Analyze compiled code to find how programs work.
 - [PentAGI](https://github.com/vxcontrol/pentagi) — Automate penetration testing tasks with autonomous AI agents.
 - [Strix](https://github.com/usestrix/strix) — Find and fix app vulnerabilities with AI pentesting.
 
 ## Local AI Models
 
 - [BitNet](https://github.com/microsoft/BitNet) — Run 1-bit language models with an optimized inference framework.
+- [DeepInfer](https://github.com/deepseek-ai/DeepInfer) — Run DeepSeek models fast at large scale.
 
 ## Learning & Reference
 
