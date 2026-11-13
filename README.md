@@ -110,6 +110,7 @@ Tools and projects I use, organized by category.
 - [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md) — Give coding agents design guides inspired by popular brands.
 - [Diagram Design](https://github.com/cathrynlavery/diagram-design) — Draw clean editorial diagrams as HTML and SVG.
 - [draw.io](https://github.com/jgraph/drawio) — Create and edit diagrams in your browser.
+- [Emil Kowalski Skills](https://github.com/emilkowalski/skills) — Teach coding agents animation and design judgment.
 - [Hairline](https://github.com/lucasmarkes/hairline) — Add interactive isometric line animations to websites.
 - [Hallmark](https://github.com/Nutlope/hallmark) — Guide coding agents to design pages that avoid AI-generated looks.
 - [Humanizer](https://github.com/blader/humanizer) — Rewrite text to remove common signs of AI writing.
@@ -126,6 +127,8 @@ Tools and projects I use, organized by category.
 - [Genjustsu](https://github.com/sirioberati/Genjustsu-Open-Source-Workflow) — Replace video subjects with AI while preserving original audio.
 - [Hyperframes](https://github.com/heygen-com/hyperframes) — Turn HTML into videos with tools built for agents.
 - [Lemo-Opuscar](https://github.com/lemomo-ai/lemo-opuscar) — Create animated films in reusable visual styles with coding agents.
+- [Motion](https://github.com/motiondivision/motion) — Animate React, JavaScript, and Vue with springs and gestures.
+- [motiscope](https://github.com/KumarSashank/motiscope) — Recreate web animations from a screen recording.
 - [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) — Generate images and videos in a self-hosted studio.
 - [OpenMontage](https://github.com/OpenMontageInc/OpenMontage) — Turn your coding agent into a video studio.
 - [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) — Generate speech, design voices, and clone voices.
