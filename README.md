@@ -107,6 +107,7 @@ Tools and projects I use, organized by category.
 
 - [AI Design Skills](https://github.com/elayadesign/ai-design-skills) — Guide coding agents to build landing pages and Figma designs.
 - [Archify](https://github.com/tt-a1i/archify) — Turn ideas and code into interactive diagrams.
+- [Astryx](https://github.com/meta/astryx) — Build interfaces with Meta's customizable, agent-ready design system.
 - [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md) — Give coding agents design guides inspired by popular brands.
 - [Diagram Design](https://github.com/cathrynlavery/diagram-design) — Draw clean editorial diagrams as HTML and SVG.
 - [draw.io](https://github.com/jgraph/drawio) — Create and edit diagrams in your browser.
