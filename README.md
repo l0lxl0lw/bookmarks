@@ -90,6 +90,7 @@ Tools and projects I use, organized by category.
 ### Mobile Automation & Testing
 
 - [ARTEMIS](https://github.com/google/artemis) — Automate Android tasks and tests with plain-language instructions.
+- [Mirroir](https://github.com/jfarcand/mirroir-mcp) — Let AI agents drive a real iPhone via iPhone Mirroring.
 
 ### App & Web Automation
 
