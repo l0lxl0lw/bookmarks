@@ -106,6 +106,7 @@ Tools and projects I use, organized by category.
 - [Agent Reach](https://github.com/Panniantong/Agent-Reach) — Let AI agents search and read websites and social platforms.
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything) — Create command-line tools so agents can operate software.
 - [Google Workspace CLI](https://github.com/googleworkspace/cli) — Use Google Workspace apps from the command line.
+- [Obscura](https://github.com/h4ckf0r0day/obscura) — Open-source headless browser for AI agents, built in Rust.
 - [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) — Extract website data using AI and Python.
 
 ## Data & Forecasting
