@@ -126,11 +126,14 @@ Tools and projects I use, organized by category.
 ## Audio, Images & Video
 
 - [Blender Skills](https://github.com/arjun988/blender-skills) — Teach coding agents to create 3D art in Blender.
+- [Chatterbox](https://github.com/resemble-ai/chatterbox) — Turn text into voiceovers with open-source speech models.
 - [earshot](https://github.com/Leonxlnx/earshot) — Let coding agents analyze, review, and create sound locally.
+- [faster-whisper](https://github.com/SYSTRAN/faster-whisper) — Transcribe speech into captions four times faster than Whisper.
 - [Genjustsu](https://github.com/sirioberati/Genjustsu-Open-Source-Workflow) — Replace video subjects with AI while preserving original audio.
 - [Hyperframes](https://github.com/heygen-com/hyperframes) — Turn HTML into videos with tools built for agents.
 - [Instagram Agent Skill](https://github.com/Jakeschincariol/instagram-agent-skill) — Run an Instagram account with thirteen Claude skills.
 - [Lemo-Opuscar](https://github.com/lemomo-ai/lemo-opuscar) — Create animated films in reusable visual styles with coding agents.
+- [MCP for Blender](https://github.com/ahujasid/mcp-for-blender) — Let Claude build and control 3D scenes in Blender.
 - [Motion](https://github.com/motiondivision/motion) — Animate React, JavaScript, and Vue with springs and gestures.
 - [motiscope](https://github.com/KumarSashank/motiscope) — Recreate web animations from a screen recording.
 - [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) — Generate images and videos in a self-hosted studio.
