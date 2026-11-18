@@ -18,14 +18,21 @@ Tools and projects I use, organized by category.
 - [Agent Skills](https://github.com/addyosmani/agent-skills) — Guide AI agents through spec, build, test, and ship.
 - [Andrej Karpathy Skills](https://github.com/multica-ai/andrej-karpathy-skills) — Guide Claude Code to avoid common coding mistakes.
 - [Anthropic Skills](https://github.com/anthropics/skills) — Browse Anthropic's reusable instructions for AI agents.
+- [Awesome Claude Video Skills](https://github.com/zhuyansen/awesome-claude-video-skills) — Find 180 security-graded video skills for coding agents.
 - [BMAD Method](https://github.com/bmad-code-org/BMAD-METHOD) — Plan and build software with structured AI workflows.
 - [Caveman](https://github.com/JuliusBrussee/caveman) — Reduce agent response length with stripped-down language.
+- [Claude Shorts](https://github.com/AgriciDaniel/claude-shorts) — Turn long videos into captioned vertical Shorts automatically.
 - [Claudeception](https://github.com/blader/Claudeception) — Turn lessons from coding sessions into reusable skills.
+- [Claudex Loop](https://github.com/chaseai-yt/claudex-loop) — Let Claude and Codex review plans before building.
 - [ECC](https://github.com/affaan-m/ECC) — Improve coding agents with skills, memory, and development workflows.
 - [Elephant-Goldfish Model](https://github.com/google/elephant-goldfish-model) — Design and review software specs with AI agents.
+- [FFmpeg Skill](https://github.com/kajisho5/ffmpeg-skill) — Let coding agents cut, caption, and export video locally.
 - [Get Shit Done](https://github.com/gsd-build/get-shit-done) — Plan and build software through small, clearly defined tasks.
+- [Ghost Editor](https://github.com/kurbaitaev/ghost-editor) — Turn raw talking-head takes into polished captioned reels.
 - [gstack](https://github.com/garrytan/gstack) — Give Claude Code tools for planning, design, development, and review.
 - [Matt Pocock's Skills](https://github.com/mattpocock/skills) — Ready-made instructions for coding agents.
+- [Motion Skills](https://github.com/iart-ai/motion-skills) — Teach coding agents to make motion graphics and animation.
+- [MotionClone](https://github.com/blixvip/MotionClone) — Rebuild reference videos as editable motion-graphics projects.
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) — Define what to build before asking AI to code.
 - [Ponytail](https://github.com/dietrichgebert/ponytail) — Guide AI agents to solve problems with less code.
 - [Ralph Claude Code](https://github.com/frankbria/ralph-claude-code) — Run Claude Code in a loop until tasks finish.
@@ -33,6 +40,7 @@ Tools and projects I use, organized by category.
 - [Security Audit Skill](https://github.com/cloudflare/security-audit-skill) — Guide coding agents to find and verify security vulnerabilities.
 - [Skills CLI](https://github.com/vercel-labs/skills) — Install and manage agent skills across coding agents.
 - [SkillSpector](https://github.com/nvidia/skillspector) — Scan agent skills for security risks before installing them.
+- [Three.js Skills](https://github.com/CloudAI-X/threejs-skills) — Give Claude Code current, verified Three.js knowledge.
 
 ### Agent Memory & Context
 
@@ -144,7 +152,9 @@ Tools and projects I use, organized by category.
 - [Voicebox](https://github.com/jamiepine/voicebox) — Clone voices, dictate text, and create AI speech.
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) — Clone voices and dub videos on your own computer.
 - [Watermarks Remover](https://github.com/guillaumemeyer/watermarks-remover) — Remove AI watermarks from content you own.
+- [Whisper](https://github.com/openai/whisper) — Transcribe speech into text with OpenAI's recognition model.
 - [YouTube Agent Skill](https://github.com/Jakeschincariol/youtube-agent-skill) — Plan YouTube videos, write scripts, and analyze audience retention.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Download audio and video from YouTube and thousands more.
 
 ## Business & Marketing
 
