@@ -139,6 +139,7 @@ Tools and projects I use, organized by category.
 ## Audio, Images & Video
 
 - [Blender Skills](https://github.com/arjun988/blender-skills) — Teach coding agents to create 3D art in Blender.
+- [Blender](https://github.com/blender/blender) — Free open-source 3D creation suite for animation.
 - [Chatterbox](https://github.com/resemble-ai/chatterbox) — Turn text into voiceovers with open-source speech models.
 - [earshot](https://github.com/Leonxlnx/earshot) — Let coding agents analyze, review, and create sound locally.
 - [faster-whisper](https://github.com/SYSTRAN/faster-whisper) — Transcribe speech into captions four times faster than Whisper.
@@ -152,6 +153,7 @@ Tools and projects I use, organized by category.
 - [motiscope](https://github.com/KumarSashank/motiscope) — Recreate web animations from a screen recording.
 - [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) — Generate images and videos in a self-hosted studio.
 - [OpenMontage](https://github.com/OpenMontageInc/OpenMontage) — Turn your coding agent into a video studio.
+- [Openverse](https://github.com/wordpress/openverse) — Search openly licensed images and audio for projects.
 - [Pixelfx](https://github.com/patch-gg/pixelfx) — 244 pixel-art effects plus a Claude Code skill.
 - [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) — Generate speech, design voices, and clone voices.
 - [React Postprocessing](https://github.com/pmndrs/react-postprocessing) — Cinematic post-processing effects for React Three Fiber.
