@@ -19,8 +19,10 @@ Tools and projects I use, organized by category.
 - [Andrej Karpathy Skills](https://github.com/multica-ai/andrej-karpathy-skills) — Guide Claude Code to avoid common coding mistakes.
 - [Anthropic Skills](https://github.com/anthropics/skills) — Browse Anthropic's reusable instructions for AI agents.
 - [Awesome Claude Video Skills](https://github.com/zhuyansen/awesome-claude-video-skills) — Find 180 security-graded video skills for coding agents.
+- [Awesome Opus 5-5 Videos](https://github.com/yihui-dev/awesome-opus5-5-videos) — Viral Claude Opus videos with prompts behind them.
 - [BMAD Method](https://github.com/bmad-code-org/BMAD-METHOD) — Plan and build software with structured AI workflows.
 - [Caveman](https://github.com/JuliusBrussee/caveman) — Reduce agent response length with stripped-down language.
+- [Claude Animation Base](https://github.com/JohnHeibel/ClaudeAnimationBase) — Hand-painted cartoon animation starter kit for Claude.
 - [Claude Shorts](https://github.com/AgriciDaniel/claude-shorts) — Turn long videos into captioned vertical Shorts automatically.
 - [Claudeception](https://github.com/blader/Claudeception) — Turn lessons from coding sessions into reusable skills.
 - [Claudex Loop](https://github.com/chaseai-yt/claudex-loop) — Let Claude and Codex review plans before building.
@@ -34,6 +36,7 @@ Tools and projects I use, organized by category.
 - [Motion Skills](https://github.com/iart-ai/motion-skills) — Teach coding agents to make motion graphics and animation.
 - [MotionClone](https://github.com/blixvip/MotionClone) — Rebuild reference videos as editable motion-graphics projects.
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) — Define what to build before asking AI to code.
+- [Opus Video Prompts](https://github.com/joeseesun/opus-video-prompts) — Copy-ready prompts for Claude code-rendered videos.
 - [Ponytail](https://github.com/dietrichgebert/ponytail) — Guide AI agents to solve problems with less code.
 - [Ralph Claude Code](https://github.com/frankbria/ralph-claude-code) — Run Claude Code in a loop until tasks finish.
 - [Replica Skill](https://github.com/Jakeschincariol/replica-skill) — Rebuild apps with Claude skills for research, development, and testing.
@@ -41,6 +44,7 @@ Tools and projects I use, organized by category.
 - [Skills CLI](https://github.com/vercel-labs/skills) — Install and manage agent skills across coding agents.
 - [SkillSpector](https://github.com/nvidia/skillspector) — Scan agent skills for security risks before installing them.
 - [Three.js Skills](https://github.com/CloudAI-X/threejs-skills) — Give Claude Code current, verified Three.js knowledge.
+- [Video ShotCraft](https://github.com/Vincentwei1021/video-shotcraft) — Cinematic product promos with Remotion and shot recipes.
 
 ### Agent Memory & Context
 
@@ -142,14 +146,19 @@ Tools and projects I use, organized by category.
 - [Hyperframes](https://github.com/heygen-com/hyperframes) — Turn HTML into videos with tools built for agents.
 - [Instagram Agent Skill](https://github.com/Jakeschincariol/instagram-agent-skill) — Run an Instagram account with thirteen Claude skills.
 - [Lemo-Opuscar](https://github.com/lemomo-ai/lemo-opuscar) — Create animated films in reusable visual styles with coding agents.
+- [librosa](https://github.com/librosa/librosa) — Python library for audio and music analysis.
 - [MCP for Blender](https://github.com/ahujasid/mcp-for-blender) — Let Claude build and control 3D scenes in Blender.
 - [Motion](https://github.com/motiondivision/motion) — Animate React, JavaScript, and Vue with springs and gestures.
 - [motiscope](https://github.com/KumarSashank/motiscope) — Recreate web animations from a screen recording.
 - [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) — Generate images and videos in a self-hosted studio.
 - [OpenMontage](https://github.com/OpenMontageInc/OpenMontage) — Turn your coding agent into a video studio.
+- [Pixelfx](https://github.com/patch-gg/pixelfx) — 244 pixel-art effects plus a Claude Code skill.
 - [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) — Generate speech, design voices, and clone voices.
+- [React Postprocessing](https://github.com/pmndrs/react-postprocessing) — Cinematic post-processing effects for React Three Fiber.
+- [React Three Rapier](https://github.com/pmndrs/react-three-rapier) — Add real physics to React Three Fiber scenes.
 - [Remotion](https://github.com/remotion-dev/remotion) — Create videos programmatically with React.
 - [Remotion Skills](https://github.com/remotion-dev/skills) — Teach coding agents how to build Remotion videos.
+- [Three.js](https://github.com/mrdoob/three.js) — Build real-time 3D graphics for the web.
 - [Voicebox](https://github.com/jamiepine/voicebox) — Clone voices, dictate text, and create AI speech.
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) — Clone voices and dub videos on your own computer.
 - [Watermarks Remover](https://github.com/guillaumemeyer/watermarks-remover) — Remove AI watermarks from content you own.
@@ -169,6 +178,7 @@ Tools and projects I use, organized by category.
 - [MiroFish](https://github.com/666ghj/MiroFish) — Explore possible outcomes through simulations with AI agents.
 - [OpenSEO](https://github.com/every-app/open-seo) — Research keywords, track rankings, and audit websites with AI agents.
 - [Postiz](https://github.com/gitroomhq/postiz-app) — Schedule and publish social media posts.
+- [REM](https://github.com/dansugc/reverse-engineer-marketing) — Reverse-engineer any company's marketing from one link.
 - [Roast Room](https://github.com/nateherkai/roast-room) — Have AI advisors debate your business decisions in Claude Code.
 
 ## Security & Testing
