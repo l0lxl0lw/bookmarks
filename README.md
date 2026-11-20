@@ -135,6 +135,7 @@ Tools and projects I use, organized by category.
 - [PPT Master](https://github.com/hugohe3/ppt-master) — Turn documents into native editable PowerPoint decks.
 - [Taste Skill](https://github.com/Leonxlnx/taste-skill) — Guide coding agents to design websites and app screens.
 - [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — Give agents design rules for polished interfaces.
+- [unslop](https://github.com/heydamir/unslop) — Turn AI-generated-looking interfaces into designed ones.
 
 ## Audio, Images & Video
 
