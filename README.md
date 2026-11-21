@@ -39,6 +39,7 @@ Tools and projects I use, organized by category.
 - [Opus Video Prompts](https://github.com/joeseesun/opus-video-prompts) — Copy-ready prompts for Claude code-rendered videos.
 - [Ponytail](https://github.com/dietrichgebert/ponytail) — Guide AI agents to solve problems with less code.
 - [Ralph Claude Code](https://github.com/frankbria/ralph-claude-code) — Run Claude Code in a loop until tasks finish.
+- [rea-video](https://github.com/JuneYaooo/rea-video) — Reverse-engineer any video shot by shot to remake it.
 - [Replica Skill](https://github.com/Jakeschincariol/replica-skill) — Rebuild apps with Claude skills for research, development, and testing.
 - [Security Audit Skill](https://github.com/cloudflare/security-audit-skill) — Guide coding agents to find and verify security vulnerabilities.
 - [Skills CLI](https://github.com/vercel-labs/skills) — Install and manage agent skills across coding agents.
