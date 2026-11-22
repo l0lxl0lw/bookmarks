@@ -36,6 +36,7 @@ Tools and projects I use, organized by category.
 - [Motion Skills](https://github.com/iart-ai/motion-skills) — Teach coding agents to make motion graphics and animation.
 - [MotionClone](https://github.com/blixvip/MotionClone) — Rebuild reference videos as editable motion-graphics projects.
 - [OpenCodeReview](https://github.com/alibaba/open-code-review) — Review code diffs with an AI agent, line by line.
+- [OpenMotion](https://github.com/nexu-io/openmotion) — Reverse-engineer any video into editable motion graphics.
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) — Define what to build before asking AI to code.
 - [Opus Video Prompts](https://github.com/joeseesun/opus-video-prompts) — Copy-ready prompts for Claude code-rendered videos.
 - [Ponytail](https://github.com/dietrichgebert/ponytail) — Guide AI agents to solve problems with less code.
