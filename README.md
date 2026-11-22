@@ -93,6 +93,7 @@ Tools and projects I use, organized by category.
 - [Oh My ClaudeCode](https://github.com/Yeachan-Heo/oh-my-claudecode) — Coordinate teams of agents in Claude Code.
 - [OpenClaw Mission Control](https://github.com/abhi1693/openclaw-mission-control) — Manage agent tasks and teamwork through OpenClaw Gateway.
 - [Paperclip](https://github.com/paperclipai/paperclip) — Manage AI agents and their work in one app.
+- [Rerun](https://github.com/rerun-build/rerun) — Hire AI coworkers that run your work for you.
 - [Ruflo](https://github.com/ruvnet/ruflo) — Coordinate agent teams and automated workflows.
 
 ## AI Assistants
