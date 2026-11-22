@@ -39,6 +39,7 @@ Tools and projects I use, organized by category.
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) — Define what to build before asking AI to code.
 - [Opus Video Prompts](https://github.com/joeseesun/opus-video-prompts) — Copy-ready prompts for Claude code-rendered videos.
 - [Ponytail](https://github.com/dietrichgebert/ponytail) — Guide AI agents to solve problems with less code.
+- [Plannotator](https://github.com/backnotprop/plannotator) — Annotate your agent's plans and send feedback back.
 - [Ralph Claude Code](https://github.com/frankbria/ralph-claude-code) — Run Claude Code in a loop until tasks finish.
 - [rea-video](https://github.com/JuneYaooo/rea-video) — Reverse-engineer any video shot by shot to remake it.
 - [Replica Skill](https://github.com/Jakeschincariol/replica-skill) — Rebuild apps with Claude skills for research, development, and testing.
