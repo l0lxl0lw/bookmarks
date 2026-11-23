@@ -120,6 +120,7 @@ Tools and projects I use, organized by category.
 - [Google Workspace CLI](https://github.com/googleworkspace/cli) — Use Google Workspace apps from the command line.
 - [Obscura](https://github.com/h4ckf0r0day/obscura) — Open-source headless browser for AI agents, built in Rust.
 - [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) — Extract website data using AI and Python.
+- [terminal-mac](https://github.com/govijr/terminal-mac) — Run a whole macOS desktop in your terminal for agents.
 
 ## Data & Forecasting
 
