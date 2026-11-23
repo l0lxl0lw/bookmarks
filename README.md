@@ -196,6 +196,7 @@ Tools and projects I use, organized by category.
 
 ## Security & Testing
 
+- [BLA](https://github.com/qybaihe/bla) — Shield shipped software from AI reverse-engineering agents.
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra) — Analyze compiled code to find how programs work.
 - [PentAGI](https://github.com/vxcontrol/pentagi) — Automate penetration testing tasks with autonomous AI agents.
 - [Strix](https://github.com/usestrix/strix) — Find and fix app vulnerabilities with AI pentesting.
