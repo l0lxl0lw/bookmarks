@@ -44,6 +44,7 @@ Tools and projects I use, organized by category.
 - [raea](https://github.com/shinyobjectz/raea) — Tell your AI what to make — videos, 3D, and games.
 - [Ralph Claude Code](https://github.com/frankbria/ralph-claude-code) — Run Claude Code in a loop until tasks finish.
 - [rea-video](https://github.com/JuneYaooo/rea-video) — Reverse-engineer any video shot by shot to remake it.
+- [Reanimate](https://github.com/NiazMorshed2007/reanimate) — Reverse-engineer any animation and rebuild it frame by frame.
 - [Replica Skill](https://github.com/Jakeschincariol/replica-skill) — Rebuild apps with Claude skills for research, development, and testing.
 - [Security Audit Skill](https://github.com/cloudflare/security-audit-skill) — Guide coding agents to find and verify security vulnerabilities.
 - [Skills CLI](https://github.com/vercel-labs/skills) — Install and manage agent skills across coding agents.
@@ -58,6 +59,7 @@ Tools and projects I use, organized by category.
 - [Claude Mem](https://github.com/thedotmack/claude-mem) — Carry useful context from past sessions into future ones.
 - [Context7](https://github.com/upstash/context7) — Give coding agents up-to-date library documentation.
 - [QMD Skill](https://github.com/levineam/qmd-skill) — Teach agents to search Markdown files with QMD.
+- [SAG-Wiki](https://github.com/Zleap-AI/SAG-Wiki) — Search your local files without LLM calls or embeddings.
 
 ### Plugins & Skill Collections
 
