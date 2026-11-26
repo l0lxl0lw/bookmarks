@@ -11,6 +11,7 @@ Tools and projects I use, organized by category.
 - [OpenCode](https://github.com/anomalyco/opencode) — Write code with an open-source AI agent.
 - [OpenMausBot](https://github.com/milind-soni/OpenMausBot) — Chat with a team of AI agents, each with its own computer.
 - [Orca](https://github.com/stablyai/orca) — Run multiple coding agents in one workspace.
+- [T3 Code](https://github.com/pingdotgg/t3code) — Control Claude Code and other agents from your phone.
 
 ### Agent Skills & Workflows
 
@@ -22,16 +23,18 @@ Tools and projects I use, organized by category.
 - [Awesome Opus 5-5 Videos](https://github.com/yihui-dev/awesome-opus5-5-videos) — Viral Claude Opus videos with prompts behind them.
 - [BMAD Method](https://github.com/bmad-code-org/BMAD-METHOD) — Plan and build software with structured AI workflows.
 - [Caveman](https://github.com/JuliusBrussee/caveman) — Reduce agent response length with stripped-down language.
+- [Claude Animated Shorts](https://github.com/mromidev/claude-animated-shorts) — Make viral animated story shorts with Claude Code.
 - [Claude Animation Base](https://github.com/JohnHeibel/ClaudeAnimationBase) — Hand-painted cartoon animation starter kit for Claude.
 - [Claude Shorts](https://github.com/AgriciDaniel/claude-shorts) — Turn long videos into captioned vertical Shorts automatically.
 - [Claudeception](https://github.com/blader/Claudeception) — Turn lessons from coding sessions into reusable skills.
 - [Claudex Loop](https://github.com/chaseai-yt/claudex-loop) — Let Claude and Codex review plans before building.
 - [ECC](https://github.com/affaan-m/ECC) — Improve coding agents with skills, memory, and development workflows.
 - [Elephant-Goldfish Model](https://github.com/google/elephant-goldfish-model) — Design and review software specs with AI agents.
-- [FFmpeg Skill](https://github.com/kajisho5/ffmpeg-skill) — Let coding agents cut, caption, and export video locally.
+- [FFmpeg Skill](https://github.com/kajisho5/ffmpeg-skill) — Let coding agents cut, caption, and export video locally. · recommended ×2
 - [Get Shit Done](https://github.com/gsd-build/get-shit-done) — Plan and build software through small, clearly defined tasks.
 - [Ghost Editor](https://github.com/kurbaitaev/ghost-editor) — Turn raw talking-head takes into polished captioned reels.
 - [gstack](https://github.com/garrytan/gstack) — Give Claude Code tools for planning, design, development, and review.
+- [Line Art Animation](https://github.com/JDhruv14/line-art-animation) — Animate line-art SVG figures that walk and react.
 - [Matt Pocock's Skills](https://github.com/mattpocock/skills) — Ready-made instructions for coding agents.
 - [Motion Skills](https://github.com/iart-ai/motion-skills) — Teach coding agents to make motion graphics and animation.
 - [MotionClone](https://github.com/blixvip/MotionClone) — Rebuild reference videos as editable motion-graphics projects.
@@ -46,7 +49,7 @@ Tools and projects I use, organized by category.
 - [rea-video](https://github.com/JuneYaooo/rea-video) — Reverse-engineer any video shot by shot to remake it.
 - [Reanimate](https://github.com/NiazMorshed2007/reanimate) — Reverse-engineer any animation and rebuild it frame by frame.
 - [Replica Skill](https://github.com/Jakeschincariol/replica-skill) — Rebuild apps with Claude skills for research, development, and testing.
-- [Security Audit Skill](https://github.com/cloudflare/security-audit-skill) — Guide coding agents to find and verify security vulnerabilities.
+- [Security Audit Skill](https://github.com/cloudflare/security-audit-skill) — Guide coding agents to find and verify security vulnerabilities. · recommended ×2
 - [Skills CLI](https://github.com/vercel-labs/skills) — Install and manage agent skills across coding agents.
 - [SkillSpector](https://github.com/nvidia/skillspector) — Scan agent skills for security risks before installing them.
 - [Three.js Skills](https://github.com/CloudAI-X/threejs-skills) — Give Claude Code current, verified Three.js knowledge.
@@ -114,7 +117,7 @@ Tools and projects I use, organized by category.
 
 ### App & Web Automation
 
-- [Agent Browser](https://github.com/vercel-labs/agent-browser) — Let AI agents open pages and click elements from the shell.
+- [Agent Browser](https://github.com/vercel-labs/agent-browser) — Let AI agents open pages and click elements from the shell. · recommended ×2
 - [Agent Reach](https://github.com/Panniantong/Agent-Reach) — Let AI agents search and read websites and social platforms.
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything) — Create command-line tools so agents can operate software.
 - [Google Workspace CLI](https://github.com/googleworkspace/cli) — Use Google Workspace apps from the command line.
@@ -154,8 +157,8 @@ Tools and projects I use, organized by category.
 - [earshot](https://github.com/Leonxlnx/earshot) — Let coding agents analyze, review, and create sound locally.
 - [faster-whisper](https://github.com/SYSTRAN/faster-whisper) — Transcribe speech into captions four times faster than Whisper.
 - [Genjustsu](https://github.com/sirioberati/Genjustsu-Open-Source-Workflow) — Replace video subjects with AI while preserving original audio.
-- [Hyperframes](https://github.com/heygen-com/hyperframes) — Turn HTML into videos with tools built for agents.
-- [Instagram Agent Skill](https://github.com/Jakeschincariol/instagram-agent-skill) — Run an Instagram account with thirteen Claude skills.
+- [Hyperframes](https://github.com/heygen-com/hyperframes) — Turn HTML into videos with tools built for agents. · recommended ×2
+- [Instagram Agent Skill](https://github.com/Jakeschincariol/instagram-agent-skill) — Run an Instagram account with thirteen Claude skills. · recommended ×2
 - [Lemo-Opuscar](https://github.com/lemomo-ai/lemo-opuscar) — Create animated films in reusable visual styles with coding agents.
 - [librosa](https://github.com/librosa/librosa) — Python library for audio and music analysis.
 - [MCP for Blender](https://github.com/ahujasid/mcp-for-blender) — Let Claude build and control 3D scenes in Blender.
@@ -182,7 +185,7 @@ Tools and projects I use, organized by category.
 ## Business & Marketing
 
 - [Career-Ops](https://github.com/career-ops-hq/career-ops) — Search jobs, tailor your resume, and prep interviews.
-- [Claude SEO](https://github.com/AgriciDaniel/claude-seo) — Run full SEO audits inside Claude Code.
+- [Claude SEO](https://github.com/AgriciDaniel/claude-seo) — Run full SEO audits inside Claude Code. · recommended ×2
 - [Google Maps Scraper Kit](https://github.com/Mahanaicoach/google-maps-scraper-kit) — Export Google Maps business leads and contact details to CSV.
 - [Harvey](https://github.com/ethanplusai/harvey) — Find sales prospects, draft outreach emails, and handle replies.
 - [jev-seo](https://github.com/AgriciDaniel/jev-seo) — Audit any website's SEO from one URL.
@@ -198,6 +201,7 @@ Tools and projects I use, organized by category.
 ## Security & Testing
 
 - [BLA](https://github.com/qybaihe/bla) — Shield shipped software from AI reverse-engineering agents.
+- [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) — Hunt bugs with a Claude skill bundle for red-team work.
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra) — Analyze compiled code to find how programs work.
 - [PentAGI](https://github.com/vxcontrol/pentagi) — Automate penetration testing tasks with autonomous AI agents.
 - [Strix](https://github.com/usestrix/strix) — Find and fix app vulnerabilities with AI pentesting.
