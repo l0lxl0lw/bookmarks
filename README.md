@@ -6,9 +6,16 @@ Tools and projects I use, organized by category.
 
 ### Coding Agents & Workspaces
 
+- [Aider](https://github.com/Aider-AI/aider) — Pair-program in your terminal with an AI coding assistant.
+- [Claude Code](https://github.com/anthropics/claude-code) — Anthropic's official agentic coding tool for your terminal.
+- [Claude Engineer](https://github.com/Doriandarko/claude-engineer) — Build software through an interactive Claude-powered command line.
+- [Cline](https://github.com/cline/cline) — Code with an AI agent inside VS Code.
+- [Continue](https://github.com/continuedev/continue) — Add AI code assistance to VS Code and JetBrains.
 - [Goose](https://github.com/aaif-goose/goose) — Use AI to install, edit, run, and test code.
 - [Herdr](https://herdr.dev/) — Run coding agents that keep working after closing the app.
 - [OpenCode](https://github.com/anomalyco/opencode) — Write code with an open-source AI agent.
+- [OpenDevin](https://github.com/OpenDevin/OpenDevin) — Run an open platform of AI software-engineer agents.
+- [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) — Let AI run code on your computer to complete tasks.
 - [OpenMausBot](https://github.com/milind-soni/OpenMausBot) — Chat with a team of AI agents, each with its own computer.
 - [Orca](https://github.com/stablyai/orca) — Run multiple coding agents in one workspace.
 - [T3 Code](https://github.com/pingdotgg/t3code) — Control Claude Code and other agents from your phone.
@@ -26,6 +33,7 @@ Tools and projects I use, organized by category.
 - [Claude Animated Shorts](https://github.com/mromidev/claude-animated-shorts) — Make viral animated story shorts with Claude Code.
 - [Claude Animation Base](https://github.com/JohnHeibel/ClaudeAnimationBase) — Hand-painted cartoon animation starter kit for Claude.
 - [Claude Shorts](https://github.com/AgriciDaniel/claude-shorts) — Turn long videos into captioned vertical Shorts automatically.
+- [Claude Task Master](https://github.com/eyaltoledano/claude-task-master) — Break projects into tasks and run them with Claude Code.
 - [Claudeception](https://github.com/blader/Claudeception) — Turn lessons from coding sessions into reusable skills.
 - [Claudex Loop](https://github.com/chaseai-yt/claudex-loop) — Let Claude and Codex review plans before building.
 - [ECC](https://github.com/affaan-m/ECC) — Improve coding agents with skills, memory, and development workflows.
@@ -53,6 +61,7 @@ Tools and projects I use, organized by category.
 - [Security Audit Skill](https://github.com/cloudflare/security-audit-skill) — Guide coding agents to find and verify security vulnerabilities. · recommended ×2
 - [Skills CLI](https://github.com/vercel-labs/skills) — Install and manage agent skills across coding agents.
 - [SkillSpector](https://github.com/nvidia/skillspector) — Scan agent skills for security risks before installing them.
+- [SuperClaude Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) — Enhance Claude Code with specialized commands and workflows.
 - [Three.js Skills](https://github.com/CloudAI-X/threejs-skills) — Give Claude Code current, verified Three.js knowledge.
 - [Video ShotCraft](https://github.com/Vincentwei1021/video-shotcraft) — Cinematic product promos with Remotion and shot recipes.
 
@@ -72,8 +81,11 @@ Tools and projects I use, organized by category.
 - [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills) — Browse categorized skills for OpenClaw agents.
 - [Awesome Paperclip](https://github.com/gsxdsm/awesome-paperclip) — Find plugins to extend Paperclip.
 - [Claude Code Mods](https://github.com/nateherkai/claude-code-mods) — Add cache, recording, goal, and collision mods to Claude Code.
+- [Claude Code Router](https://github.com/musistudio/claude-code-router) — Route Claude Code requests across models and providers.
 - [Claude Plugins Official](https://github.com/anthropics/claude-plugins-official) — Browse Anthropic's official directory of Claude Code plugins.
 - [Knowledge Work Plugins](https://github.com/anthropics/knowledge-work-plugins) — Add workplace tools and workflows to Claude Cowork.
+- [MCP Compass](https://github.com/liuyoshio/mcp-compass) — Discover and recommend MCP servers for your agents.
+- [MCP Installer](https://github.com/anaisbetts/mcp-installer) — Install MCP servers into Claude with one command.
 
 ### Codebase Understanding
 
@@ -232,8 +244,12 @@ Tools and projects I use, organized by category.
 ## Learning & Reference
 
 - [Awesome](https://github.com/sindresorhus/awesome) — Find curated resource lists across many topics.
+- [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) — Curated collection of the best Claude Code resources.
+- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) — Curated list of MCP servers for AI agents.
 - [Awesome OpenClaw Use Cases](https://github.com/hesamsheikh/awesome-openclaw-usecases) — Explore practical ways to use OpenClaw.
 - [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) — Find apps and services to host yourself.
+- [Claude Cookbooks](https://github.com/anthropics/claude-cookbooks) — Recipes and examples for building with Claude.
+- [Claude Quickstarts](https://github.com/anthropics/claude-quickstarts) — Starter projects for building with Claude Code.
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — Learn programming, math, and computer science for free.
 - [Public APIs](https://github.com/public-apis/public-apis) — Find free APIs for your projects.
 - [System Prompts Leaks](https://github.com/asgeirtj/system_prompts_leaks) — Browse collected system prompts from AI tools.
