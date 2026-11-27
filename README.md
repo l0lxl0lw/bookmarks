@@ -153,30 +153,46 @@ Tools and projects I use, organized by category.
 
 ## Audio, Images & Video
 
-- [Blender Skills](https://github.com/arjun988/blender-skills) — Teach coding agents to create 3D art in Blender.
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js) — Build web games and 3D scenes with JavaScript.
+- [Blender Skills](https://github.com/arjun988/blender-skills) — Teach coding agents to create 3D art in Blender. · recommended ×2
 - [Blender](https://github.com/blender/blender) — Free open-source 3D creation suite for animation.
+- [CadQuery](https://github.com/CadQuery/cadquery) — Build parametric 3D CAD models with Python scripts.
 - [Chatterbox](https://github.com/resemble-ai/chatterbox) — Turn text into voiceovers with open-source speech models.
+- [Drei](https://github.com/pmndrs/drei) — Add ready-made helpers for React Three Fiber scenes.
 - [earshot](https://github.com/Leonxlnx/earshot) — Let coding agents analyze, review, and create sound locally.
 - [faster-whisper](https://github.com/SYSTRAN/faster-whisper) — Transcribe speech into captions four times faster than Whisper.
+- [Filament](https://github.com/google/filament) — Render realistic 3D graphics on phones, desktops, and the web.
 - [Genjustsu](https://github.com/sirioberati/Genjustsu-Open-Source-Workflow) — Replace video subjects with AI while preserving original audio.
 - [Hyperframes](https://github.com/heygen-com/hyperframes) — Turn HTML into videos with tools built for agents. · recommended ×2
 - [Instagram Agent Skill](https://github.com/Jakeschincariol/instagram-agent-skill) — Run an Instagram account with thirteen Claude skills. · recommended ×2
+- [Instant Meshes](https://github.com/wjakob/instant-meshes) — Turn dense triangle meshes into clean quad meshes automatically.
+- [Jolt Physics](https://github.com/jrouwe/JoltPhysics) — Simulate rigid-body physics and collisions in games and VR.
 - [Lemo-Opuscar](https://github.com/lemomo-ai/lemo-opuscar) — Create animated films in reusable visual styles with coding agents.
 - [librosa](https://github.com/librosa/librosa) — Python library for audio and music analysis.
+- [Manifold](https://github.com/elalish/manifold) — Build solid 3D meshes with reliable Boolean operations.
+- [MaterialX](https://github.com/AcademySoftwareFoundation/MaterialX) — Share rich material and look-development data between 3D apps.
 - [MCP for Blender](https://github.com/ahujasid/mcp-for-blender) — Let Claude build and control 3D scenes in Blender.
+- [MeshLab](https://github.com/cnr-isti-vclab/meshlab) — Edit, clean, and repair large 3D triangle meshes.
+- [Meshroom](https://github.com/alicevision/Meshroom) — Turn photos into detailed 3D models with photogrammetry.
 - [Motion](https://github.com/motiondivision/motion) — Animate React, JavaScript, and Vue with springs and gestures.
 - [motiscope](https://github.com/KumarSashank/motiscope) — Recreate web animations from a screen recording.
+- [Nerfstudio](https://github.com/nerfstudio-project/nerfstudio) — Create 3D scenes from photos with neural radiance fields.
 - [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) — Generate images and videos in a self-hosted studio.
+- [Open3D](https://github.com/isl-org/Open3D) — Process and visualize 3D data in C++ and Python.
 - [OpenMontage](https://github.com/OpenMontageInc/OpenMontage) — Turn your coding agent into a video studio.
+- [OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD) — Exchange 3D scene descriptions between graphics applications.
 - [Openverse](https://github.com/wordpress/openverse) — Search openly licensed images and audio for projects.
 - [Photoshoot](https://github.com/ralksta/ComfyUI-Photoshoot) — Shoot a whole photo series of one consistent person.
 - [Pixelfx](https://github.com/patch-gg/pixelfx) — 244 pixel-art effects plus a Claude Code skill.
+- [PlayCanvas](https://github.com/playcanvas/engine) — Build interactive 2D and 3D apps for any browser.
 - [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) — Generate speech, design voices, and clone voices.
 - [React Postprocessing](https://github.com/pmndrs/react-postprocessing) — Cinematic post-processing effects for React Three Fiber.
+- [React Three Fiber](https://github.com/pmndrs/react-three-fiber) — Render Three.js scenes with React components.
 - [React Three Rapier](https://github.com/pmndrs/react-three-rapier) — Add real physics to React Three Fiber scenes.
 - [Remotion](https://github.com/remotion-dev/remotion) — Create videos programmatically with React.
 - [Remotion Skills](https://github.com/remotion-dev/skills) — Teach coding agents how to build Remotion videos.
-- [Three.js](https://github.com/mrdoob/three.js) — Build real-time 3D graphics for the web.
+- [Replicad](https://github.com/sgenoud/replicad) — Build 3D CAD models with code in the browser.
+- [Three.js](https://github.com/mrdoob/three.js) — Build real-time 3D graphics for the web. · recommended ×2
 - [Voicebox](https://github.com/jamiepine/voicebox) — Clone voices, dictate text, and create AI speech.
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) — Clone voices and dub videos on your own computer.
 - [Watermarks Remover](https://github.com/guillaumemeyer/watermarks-remover) — Remove AI watermarks from content you own.
