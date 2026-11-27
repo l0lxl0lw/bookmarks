@@ -148,6 +148,7 @@ Tools and projects I use, organized by category.
 - [Taste Skill](https://github.com/Leonxlnx/taste-skill) — Guide coding agents to design websites and app screens.
 - [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — Give agents design rules for polished interfaces.
 - [unslop](https://github.com/heydamir/unslop) — Turn AI-generated-looking interfaces into designed ones.
+- [unslop-anything](https://github.com/erkamyaman/unslop-anything) — Find and fix AI-generated looks in apps and websites.
 
 ## Audio, Images & Video
 
