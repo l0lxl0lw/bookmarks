@@ -34,6 +34,7 @@ Tools and projects I use, organized by category.
 - [Get Shit Done](https://github.com/gsd-build/get-shit-done) — Plan and build software through small, clearly defined tasks.
 - [Ghost Editor](https://github.com/kurbaitaev/ghost-editor) — Turn raw talking-head takes into polished captioned reels.
 - [gstack](https://github.com/garrytan/gstack) — Give Claude Code tools for planning, design, development, and review.
+- [Hypit](https://github.com/hypit-ai/hypit) — Clone any viral video format with AI agents.
 - [Line Art Animation](https://github.com/JDhruv14/line-art-animation) — Animate line-art SVG figures that walk and react.
 - [Matt Pocock's Skills](https://github.com/mattpocock/skills) — Ready-made instructions for coding agents.
 - [Motion Skills](https://github.com/iart-ai/motion-skills) — Teach coding agents to make motion graphics and animation.
